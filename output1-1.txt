@@ -1,0 +1,28 @@
+
+Frequent 1-itemsets 
+
+	12 : {'80'}
+	19 : {'30'}
+	19 : {'20'}
+	32 : {'60'}
+	40 : {'50'}
+
+	Total number of freuqent 1-itemsets = 5
+
+
+Frequent 2-itemsets 
+
+	8 : {'80', '70'}
+Tailcount = 26
+	9 : {'80', '60'}
+Tailcount = 32
+	14 : {'30', '70'}
+Tailcount = 26
+	15 : {'30', '60'}
+Tailcount = 32
+	26 : {'70', '50'}
+Tailcount = 40
+
+	Total number of freuqent 2-itemsets = 5
+
+

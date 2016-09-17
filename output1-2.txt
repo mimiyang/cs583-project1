@@ -1,0 +1,43 @@
+
+Frequent 1-itemsets
+
+	32 : 60
+	19 : 30
+
+	Total number of freuqent 1-itemsets =2
+
+
+Frequent 2-itemsets
+
+	19 : [60, 70]
+Tailcount =26
+	14 : [30, 70]
+Tailcount =26
+	13 : [10, 60]
+Tailcount =32
+	7 : [10, 30]
+Tailcount =19
+	32 : [60, 50]
+Tailcount =40
+	16 : [60, 20]
+Tailcount =19
+
+	Total number of freuqent 2-itemsets =6
+
+
+Frequent 3-itemsets
+
+	7 : [10, 60, 70]
+Tailcount =19
+	5 : [10, 30, 70]
+Tailcount =14
+	19 : [60, 70, 50]
+Tailcount =26
+	7 : [10, 60, 20]
+Tailcount =16
+	16 : [60, 20, 50]
+Tailcount =19
+
+	Total number of freuqent 3-itemsets =5
+
+
